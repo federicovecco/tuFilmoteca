@@ -1,0 +1,120 @@
+###########
+# top cities
+#   see en.wikipedia.org/wiki/Metropolitan_areas_of_Mexico
+
+México|Distrito Federal|D.F.|DF,   DF, m:20137152
+
+
+Guadalajara|Gdl., JA, m:4434252
+Monterrey,   NL, m:4080329
+Puebla,      PB, m:2668347
+Toluca (de Lerdo),    ME,  m:1846602
+León,        GT, m:1609717
+(Ciudad) Juárez|Cd. Juárez, CH,  m:1495094
+Torreón,     CO,  m:1275993
+Querétaro,   QE,  m:1097028
+San Luis Potosì|S.L.P., SL, m:1040822
+
+
+################################
+# Baja California / B.C. / BC
+
+Tijuana,   BC, m:1751302
+Mexicali,  BC
+Ensenada,  BC
+
+######################################
+# Baja California Sur / B.C.S. / BS
+
+Guerrero Negro, BS
+San Ignacio, BS
+Santa Rosalia, BS
+Mulegé, BS
+La Paz, BS
+Cabo San Lucas, BS
+San José del Cabo, BS
+
+
+
+#########################
+# Guerrero / Gro. / GR
+
+Acapulco (de Juárez),  GR 
+Chilpancingo (de los Bravo),  GR
+
+##############################
+# Aguascalientes / Ags. / AG
+
+Aguascalientes|Ags.,    AG
+
+#########################
+# Campeche / Camp. / CM
+
+(San Francisco de) Campeche, CM
+
+################################
+# Quintana Roo / Q. Roo. / QR
+
+Cancún,        QR, m:628306
+Chetumal,      QR
+
+#######################
+# Sonora / Son. / SO
+
+Ciudad Obregón, SO
+Hermosillo,     SO
+
+#######################
+# Sinaloa / Sin. / SI
+
+Culiacán (Rosales),  SI
+Los Mochis,  SI
+
+##########################
+# Oaxaca / Oax. / OA
+
+Oaxaca, OA
+(Santa María) Huatulco, OA
+
+
+
+Ciudad Victoria|Cd. Victoria, TM      # Tamaulipas
+
+Chihuahua,   CH,   m:809232
+
+Cuernavaca,  MO  #  Morelos
+
+Colima,  CL  #  Colima
+
+
+(Victoria de) Durango,  DG    # Durango
+
+Guanajuato|Gto.,  GT   # Guanajuato
+
+Xalapa(-Enríquez)|Jalapa, VE   # Veracruz
+
+
+
+Mérida,      YU,   m:973046
+
+
+Morelia,    MI, m:729757
+
+Puerto Vallarta|Pto. Vallarta,   ???
+
+Saltillo,   ???
+
+Tepic,   ???
+
+
+Tlaxcala, TL  # Tlaxcala
+
+Tuxtla (Gutiérrez),  CS, m:503320
+
+Pachuca, HG, 275578
+
+San Nicolás de los Garza, NL, 476761
+
+Villahermosa, TB    # Tabasco
+
+Zacatecas,  ZA  # Zacatecas

@@ -1,0 +1,8 @@
+Elementos a agregar al proyecto
+========= = ======= == ========
+
+29/10/2013 {
+
+    # Opción de agregar mas premios y/o mas categorias en el formulario para
+      nuevas peliculas.
+}

@@ -1,0 +1,29 @@
+####################
+# 9 Bundesländer
+
+
+b,  Burgenland,                         3_962 km², eastern austria
+n,  Niederösterreich [Lower Austria],  19_186 km², eastern austria
+w,  Wien [Vienna],                        415 km², eastern austria
+
+st, Steiermark [Styria],            16_401 km², southern austria
+k,  Kärnten [Carinthia],             9_538 km², southern austria
+
+o,  Oberösterreich [Upper Austria],   11_980 km², western austria
+s,  Salzburg,                          7_156 km², western austria
+t,  Tirol [Tyrol],                    12_640 km², western austria
+v,  Vorarlberg,                        2_601 km², western austria
+
+
+####
+# old keys used:
+#
+# bgld
+# noe
+# wien
+# stmk
+# ktn
+# ooe
+# sbg
+# tirol
+# vbg
